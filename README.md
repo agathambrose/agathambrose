@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @agathambrose
-- 👀 I’m interested in Front-end Development and Software Engineering
-- 🌱 I’m currently learning Typescript and TDD with Jest
-- 💞️ I’m looking to collaborate on interesting and challenging projects
-- 📫 How to reach me? agathambrose@gmail.com www.agathambrose.com
+![Agatha Ambrose](https://user-images.githubusercontent.com/73320658/115610855-6ad52300-a2b7-11eb-9778-cf4dafe5beae.gif)
+
 
 <!---
 agathambrose/agathambrose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
