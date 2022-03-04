@@ -1,4 +1,4 @@
-Html | Css | JavaScript | Sass | Bootstrap | React JS | React Native | Flutter | Tailwind Css | Python Django
+Html  🚀 Css  🚀 JavaScript  🚀 Sass  🚀 Bootstrap  🚀 React JS  🚀 React Native  🚀 Flutter  🚀 Tailwind Css  🚀 Python Django
 
 ![Agatha Ambrose (1)](https://user-images.githubusercontent.com/73320658/115612844-b4267200-a2b9-11eb-95a3-6da768ada5e9.gif)
 
