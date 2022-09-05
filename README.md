@@ -1,11 +1,11 @@
 ![Agatha Ambrose](https://user-images.githubusercontent.com/73320658/156777791-a8584514-6551-4a42-b286-39fbef8ac6ce.gif)
 
-<!---
-agathambrose/agathambrose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+
+<!-- agathambrose/agathambrose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes. -->
 ===============================
 
-Product Manager ~ Software Developer
+# Product Manager ~ Software Developer
 ------------------------------------
 
 I really like getting down then into the nittygritty of software development and innovating through software products. I also advocate for the soft life!
