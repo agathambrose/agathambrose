@@ -11,7 +11,7 @@ I really like getting down and then into the nitty-gritty of software developmen
 
 Yes, a total softie!
 
-* 🌍  I'm based in Accra, Ghana
+* 🌍  You'll most likely find me somewhere warm.
 * 🖥️  See my portfolio at [A.A](http://agathambrose.com)
 * ✉️  You can contact me at [agathambrose@gmail.com](mailto:agathambrose@gmail.com)
 * 🚀  I'm currently working on [FiClub](http://ficlub.com)
