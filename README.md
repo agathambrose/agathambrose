@@ -60,12 +60,12 @@ Yes, a total softie.
 
 <b>My GitHub Stats</b>
 
-<p align="">
-  <img src="https://github-readme-stats.vercel.app/api?username=agathambrose&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="agathambrose's GitHub stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agathambrose&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="50%" />
+<p align="center" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api?username=agathambrose&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="agathambrose's GitHub stats" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=agathambrose&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" width="40%" />
   </p>
 
-<a href="http://www.github.com/agathambrose"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=agathambrose&langs_count=10&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" alt="Top Languages" width="100%" /></a>
+<a href="http://www.github.com/agathambrose"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=agathambrose&langs_count=10&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" alt="Top Languages" width="50%" /></a>
 
 
 <!-- <a href="http://www.github.com/agathambrose"><img src="https://activity-graph.herokuapp.com/graph?username=agathambrose&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
