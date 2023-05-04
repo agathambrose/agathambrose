@@ -60,17 +60,17 @@ Yes, a total softie.
 
 <b>My GitHub Stats</b>
 
-<!-- <table>
+<table>
   <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/></td>
+    <td valign="top"><img align="top" src="https://github-readme-stats.vercel.app/api?username=agathambrose&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="agathambrose's GitHub stats" /></td>
+    <td valign="top"><img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=agathambrose&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></td>
   </tr>
-</table> -->
+</table>
 
-<div align="" width="100%">
+<!-- <div align="" width="100%">
   <img align="top" src="https://github-readme-stats.vercel.app/api?username=agathambrose&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="agathambrose's GitHub stats" />
   <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=agathambrose&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
- </div>
+ </div> -->
 
 <a href="http://www.github.com/agathambrose"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=agathambrose&langs_count=10&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" alt="Top Languages" width="50%" /></a>
 
