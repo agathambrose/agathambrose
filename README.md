@@ -64,10 +64,8 @@ Yes, a total softie.
 
 <a href="http://www.github.com/agathambrose"><img src="https://github-readme-streak-stats.herokuapp.com/?user=agathambrose&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=agathambrose&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agathambrose&langs_count=10&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" alt="Top Languages" width="45.25%">
-</p>
+<!--     <img src="https://github-readme-stats.vercel.app/api?username=agathambrose&show_icons=true&bg_color=0e2239&text_color=58a6ff&hide_border=true" width="54.25%"> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=agathambrose&langs_count=10&layout=compact&bg_color=0e2239&text_color=58a6ff&hide_border=true" alt="Top Languages">
 
 <!-- <a href="http://www.github.com/agathambrose"><img src="https://activity-graph.herokuapp.com/graph?username=agathambrose&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
 
