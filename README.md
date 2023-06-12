@@ -15,7 +15,7 @@ Yes, a total softie.
 * 🖥️  See my portfolio at [A.A](http://agathambrose.com)
 * ✉️  You can contact me at [agathambrose@gmail.com](mailto:agathambrose@gmail.com)
 * 🚀  I'm currently working on Spark at [FiClub](http://joinspark.app)
-* 🧠  I'm learning ML for an idea I have relating to the fashion industry
+* 🧠  I'm learning ML for an idea I have relating to the B2B Saas, Job Hunting and the fashion industry
 * 🤝  I'm open to collaborating on AI, Fintech, LogiTech, MobilityTech and Proptech projects or any interesting project at all
 * ⚡  I'm secretly cat woman... sshhhhh
 
