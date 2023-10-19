@@ -15,8 +15,8 @@ Yes, a total softie.
 * 🖥️  See my portfolio at [A.A](http://agathambrose.com).
 * ✉️  You can contact me at [agathambrose@gmail.com](mailto:agathambrose@gmail.com).
 * 🚀  I'm currently working on [Spark](http://joinspark.app) at FiClub Inc.
-* 🧠  I'm presently tinkering alongside a team of buddies on an enterprise SAAS tool that makes data super cool, approachable and friendly.
-* 🤝  I'm open to collaborating on AI, Fintech, Logitech, MobilityTech and Proptech projects or any interesting project at all
+* 🧠  In my leisure, I'm presently tinkering alongside a team of buddies on an enterprise SAAS tool that makes data super cool, approachable and friendly.
+* 🤝  I'm open to collaborating on AI, Fintech, Logitech, MobilityTech and Proptech projects or any interesting and impactful project at all.
 * ⚡  I'm secretly Cat Woman... sshhhhh
 
 ## 🔐 Skills
