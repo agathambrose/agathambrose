@@ -7,17 +7,17 @@ Product Manager ~ Software Developer ~ Techpreneur
 --------------------------------------------------
 
 
-I really like getting down and then into the nitty-gritty of software development and innovating through software products. I also advocate for the soft life!
+I like software products, data and the process of making impactful software. That doesn't mean I don't like hardware products, I just really like getting down and then into the nitty-gritty of innovating through software products. Whether I'm facilitating the endeavour or writing the code, I enjoy both sides of the coin. I also advocate for the soft life!
 
 Yes, a total softie.
 
-* 🌍  You'll most likely find me somewhere warm.
-* 🖥️  See my portfolio at [A.A](http://agathambrose.com)
-* ✉️  You can contact me at [agathambrose@gmail.com](mailto:agathambrose@gmail.com)
-* 🚀  I'm currently working on Spark at [FiClub](http://joinspark.app)
-* 🧠  I'm learning ML for an idea I have relating to the B2B Saas, Job Hunting and the fashion industry
-* 🤝  I'm open to collaborating on AI, Fintech, LogiTech, MobilityTech and Proptech projects or any interesting project at all
-* ⚡  I'm secretly cat woman... sshhhhh
+* 🌍  You'll most likely find me somewhere warm and lovely.
+* 🖥️  See my portfolio at [A.A](http://agathambrose.com).
+* ✉️  You can contact me at [agathambrose@gmail.com](mailto:agathambrose@gmail.com).
+* 🚀  I'm currently working on [Spark](http://joinspark.app) at FiClub Inc.
+* 🧠  I'm presently tinkering alongside a team of buddies on an enterprise SAAS tool that makes data super cool, approachable and friendly.
+* 🤝  I'm open to collaborating on AI, Fintech, Logitech, MobilityTech and Proptech projects or any interesting project at all
+* ⚡  I'm secretly Cat Woman... sshhhhh
 
 ## 🔐 Skills
 
